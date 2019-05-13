@@ -1,0 +1,46 @@
+@import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css);.navbar-laravel {
+  background-color: #fff;
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: NanumSquareRound;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+label,
+button {
+  cursor: pointer;
+}
+
+p {
+  font-weight: normal;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: #f6f5fb;
+}
+
+#app {
+  height: 100%;
+}
+
